@@ -154,3 +154,23 @@
     top: -25px;
   }
 }
+
+.app__modal {
+ .app__title{
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 10px;
+  
+   h2{
+     font-size: 28px;
+     color: var(--secondary-color);
+   }
+ }
+ .app__content{
+  margin-bottom: 10px;
+ }
+ .app__tools{
+   display: flex;
+   margin-bottom: 10px;
+ }
+}
