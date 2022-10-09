@@ -77,12 +77,12 @@ const EXPEREINCES = [
         desc: "I worked on the design of the new Amazon app. I was responsible for the design of the new app, and the development of the new app.",
         name: "Full stack developer",
         content: [
-          "Build a B2B SaaS platform frontend,, which enable ecommerece sellers to automate the pricing of the products.",
+          "Build a B2B SaaS platform frontend, which enable ecommerece sellers to automate the pricing of the products.",
           "Leading a team of developers in frontend.",
           "Define code architecture decisions to support a high-performance and scalable product.",
           "Handling lifecycles of product releases in collaboration with Product Teams.",
         ],
-        tech:"Nextjs, React, Redux, antd"
+        tech: "Nextjs, React, Redux, antD, Tailwind, SSO",
       },
     ],
     year: "2021",
@@ -100,7 +100,7 @@ const EXPEREINCES = [
           "Manage website development projects from initial design through completion, optimizing all cross browser and multiplatform compatibility.",
           ,
         ],
-        tech:"Nextjs, React, Redux, Node, MongoDB"
+        tech: "Nextjs, React, Redux, Node, MongoDB",
       },
     ],
     year: "2019",
@@ -113,12 +113,12 @@ const EXPEREINCES = [
         desc: "I worked on the design of the new Google app. I was responsible for the design of the new app, and the development of the new app.",
         name: "Frontend developer",
         content: [
-          "Worked in creating and managing a full scale B2B DMS(data management system).",
+          "Worked on creating and managing a full scale B2B DMS(data management system).",
           "Worked on creating a product which enables organizations to automate the creation, retrieval, integration, and enrichment of data using workflows that can be iteratively optimized for efficiency.",
           "R & D experience.",
           "Handling lifecycles of product releases in collaboration with Product Teams.",
         ],
-        tech:"React, Jquery, Java, c#, RabbitMQ"
+        tech: "React, Jquery, Java, c#, RabbitMQ",
       },
     ],
     year: "2017",

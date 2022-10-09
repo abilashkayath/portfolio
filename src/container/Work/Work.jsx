@@ -348,7 +348,7 @@ const Work = () => {
             </ul>
           </div>
           <div className="app__tools">
-            <h4>Tools and Teknowledgies : </h4>
+            <h4>Tools and Technologies : </h4>
             <p className="bold-text">{` ${modalContent.tools}`}</p>
           </div>
           <a href={modalContent.link} target="_blank" rel="noreferrer">
