@@ -34,7 +34,7 @@ const FILTER_WORK = [
       tools: "Nextjs,React, Redux,SSO, antD",
       link: "https://pricing.boostmyshop.com/",
     },
-    imgUrl:"pricing.png"
+    imgUrl: "pricing.png",
   },
   {
     codeLink: "",
@@ -60,7 +60,7 @@ const FILTER_WORK = [
       tools: "React, Here Maps, Redux, Material UI",
       link: "https://www.visiontrack.com/",
     },
-    imgUrl:"visionTrack.jpg"
+    imgUrl: "visionTrack.jpg",
   },
   {
     codeLink: "",
@@ -85,7 +85,7 @@ const FILTER_WORK = [
       tools: "Nextjs, Ag-grid, Redux",
       link: "https://turnstilegroup.com/",
     },
-    imgUrl:"turnstile.svg"
+    imgUrl: "turnstile.svg",
   },
   {
     codeLink: "",
@@ -107,7 +107,7 @@ const FILTER_WORK = [
       tools: "React, Stripe",
       link: "https://ankurfortheworld.com/",
     },
-    imgUrl:"ankur.jpeg"
+    imgUrl: "ankur.jpeg",
   },
   {
     codeLink: "",
@@ -133,7 +133,7 @@ const FILTER_WORK = [
       tools: "React, Jquery, c#,Java, RabbitMq",
       link: "https://www.teknowmics.com/en/index.html",
     },
-    imgUrl:"smartdocs.png"
+    imgUrl: "smartdocs.png",
   },
   {
     codeLink: "",
@@ -155,7 +155,7 @@ const FILTER_WORK = [
       tools: "React, pdfjs",
       link: "https://www.teknowmics.com/en/index.html",
     },
-    imgUrl:"pdfjs.png"
+    imgUrl: "pdfjs.png",
   },
   {
     codeLink: "",
@@ -166,7 +166,7 @@ const FILTER_WORK = [
         _ref: "image-db53adca404b7410a2869db815e4ce77da2e7e53-1200x900-png",
       },
     },
-    projectLink: "",
+    projectLink: "https://chat-mern-app-v4.herokuapp.com/",
     tags: ["Node JS", "Personal Projects"],
     title: "Chat-App",
     modal: {
@@ -178,9 +178,9 @@ const FILTER_WORK = [
         "Integrated socket.io for real time communication",
       ],
       tools: "React, Node, MongoDB, socket.io",
-      link: "",
+      link: "https://chat-mern-app-v4.herokuapp.com/",
     },
-    imgUrl:"chatapp.jpg"
+    imgUrl: "chatapp.jpg",
   },
   {
     codeLink: "",
@@ -195,7 +195,7 @@ const FILTER_WORK = [
     tags: ["Node JS", "Personal Projects"],
     title: "Scheduler-App",
     modal: null,
-    imgUrl:"scheduler.jpg"
+    imgUrl: "scheduler.jpg",
   },
   {
     codeLink: "",
